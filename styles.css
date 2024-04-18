@@ -101,11 +101,11 @@ body {
     justify-content: center;
     list-style-type: none;
     margin: 5em 0;
+    padding: 15%;
 }
 
 .dispositivos {
     text-align: center;
-    padding: 20px;
 }
 
 .dispositivos__titulo {
